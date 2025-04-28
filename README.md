@@ -17,9 +17,10 @@ https://github.com/LouinLee/Inventory
 - **Logout** untuk menghapus sesi pengguna.
 
 ### **Manajemen Product, Category, Warehouse**
-- **Menambahkan, mengedit, menghapus product, category, dan warehouse**
-- **Menampilkan stok penyimpanan produk yang ada pada warehouse tertentu** pada menu halaman **Product**
-- **Menampilkan semua produk yang ada pada warehouse tertentu** pada menu halaman **Warehouse**
+- **Menambahkan, mengedit, menghapus** `product`, `category`, dan `warehouse`
+- **Menampilkan stok penyimpanan produk** yang ada pada **warehouse tertentu**, melalui menu halaman **Product**
+- **Menampilkan semua produk** yang ada pada **kategori tertentu**, melalui menu halaman **Category**
+- **Menampilkan semua produk** yang ada pada **warehouse tertentu**, melalui menu halaman **Warehouse**
 
 ### **Manajemen Inbound, Outbound**
 - **Menambahkan stok inbound dan outbound** yang masuk ataupun keluar
